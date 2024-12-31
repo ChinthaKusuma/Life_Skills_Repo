@@ -163,6 +163,11 @@ db = MySQLDatabase()
 service = UserService(db)
 service.get_user()
 ```
+## References
+
+* https://www.youtube.com/watch?v=TMuno5RZNeE
+
+* https://youtu.be/ZkknJI3QMss?si=D7rFn34sP55WoTab
 
 
       

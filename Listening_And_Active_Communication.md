@@ -1,7 +1,7 @@
 
 # Listening and Active Communication
 
-## 1. Active Listening - What are the steps/strategies to do Active Listening? (Minimum 6 points)
+## 1. Active Listening - What are the steps/strategies to do Active Listening? 
 
 Steps and Strategies to do Active Listening:
 

@@ -50,5 +50,5 @@ One habit I’d like to do less of is checking social media too often. To make i
 
 * Make the cue invisible by turning off notifications or putting the phone in another room.
 * Make it unattractive by reminding myself of the negative effects of scrolling too much.
-* Make the response unsatisfying by keeping my phone locked or using apps that limit my screen time. please replace the word cue with another word
+* Make the response unsatisfying by keeping my phone locked or using apps that limit my screen time. 
 
